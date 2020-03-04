@@ -1,7 +1,7 @@
 {
   "name": "described",
-  "version": "0.0.1",
-  "description": "Your system, described.",
+  "version": "0.0.2",
+  "description": "Your application, described.",
   "main": "index.js",
   "repository": "git@github.com:described-io/described.git",
   "license": "MIT"
